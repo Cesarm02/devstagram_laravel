@@ -1,0 +1,5 @@
+Compilación de tailwind
+    npm run dev -> 1 sola vez 
+    npm run wath -> Constante
+Compilación de laravel
+    php artisan serve
